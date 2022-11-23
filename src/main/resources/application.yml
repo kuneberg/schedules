@@ -1,0 +1,6 @@
+
+dao.stub: false
+
+mongo:
+  url: mongodb://schedule:schedule@localhost:27017
+  db.name: schedules
